@@ -1,0 +1,20 @@
+# Define colors
+class mColors():
+  
+    HEADER = '\033[95m'
+    OKBLUE = '\033[94m'
+    OKGREEN = '\033[92m'
+    WARNING = '\033[93m'
+    FAIL = '\033[91m'
+    ENDC = '\x1b[0m' #'\033[0m'
+    BOLD = '\033[1m'
+    UNDERLINE = '\033[4m'
+    CORG = '\x1b[6;39;43m'
+    CLiBL = '\x1b[0;30;44m'
+    CBLACK  = '\33[60m'
+    CBLUEBG   = '\x1b[0;36;40m'
+    CBLUEBG2   = '\x1b[0;34;40m'
+    CLGREY = '\x1b[5;30;46m'
+    CGREY = '\x1b[5;30;47m'
+    CGREYOR = '\x1b[7;30;43m'
+    CGREEN = '\x1b[6;30;42m'
